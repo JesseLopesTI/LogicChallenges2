@@ -1,5 +1,5 @@
 /**
- * Classe que imprime a tabuada completa de um número entre 0 a 10.
+ * Classe que imprime a tabuada completa de um número entre 0 e 10.
  *
  * @author Jessé Lopes
  *
