@@ -9,10 +9,10 @@ public class TabuadaDeSubtracaoCompleta {
 
   public static void main(String[] args) {
 
-    for (int unidade = 0; unidade <= 10; unidade++) {
-      System.out.println("\n" + "A tabuada do número " + unidade + " é:" + "\n");
-      for (int dezena = 0; dezena <= 10; dezena++) {
-        System.out.println(unidade + " - " + dezena + " = " + (unidade - dezena));
+    for (int numero = 0; numero <= 10; numero++) {
+      System.out.println("\n" + "A tabuada do número " + numero + " é:" + "\n");
+      for (int contador = 0; contador <= 10; contador++) {
+        System.out.println(numero + " - " + contador + " = " + (numero - contador));
       }
     }
   }

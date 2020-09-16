@@ -22,62 +22,62 @@ public class TabuadaDeDivisaoCompleta {
 
     System.out.println("\n" + "A tabuada do número " + numero1 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 10; dezena++) {
-      System.out.println(dezena + " / " + numero1 + " = " + dezena / numero1);
+    for (int contador = 0; contador <= 10; contador++) {
+      System.out.println(contador + " / " + numero1 + " = " + contador / numero1);
     }
 
     System.out.println("\n" + "A tabuada do número " + numero2 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 20; dezena = dezena + 2) {
-      System.out.println(dezena + " / " + numero2 + " = " + dezena / numero2);
+    for (int contador = 0; contador <= 20; contador = contador + 2) {
+      System.out.println(contador + " / " + numero2 + " = " + contador / numero2);
     }
 
     System.out.println("\n" + "A tabuada do número " + numero3 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 30; dezena = dezena + 3) {
-      System.out.println(dezena + " / " + numero3 + " = " + dezena / numero3);
+    for (int contador = 0; contador <= 30; contador = contador + 3) {
+      System.out.println(contador + " / " + numero3 + " = " + contador / numero3);
     }
 
     System.out.println("\n" + "A tabuada do número " + numero4 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 40; dezena = dezena + 4) {
-      System.out.println(dezena + " / " + numero4 + " = " + dezena / numero4);
+    for (int contador = 0; contador <= 40; contador = contador + 4) {
+      System.out.println(contador + " / " + numero4 + " = " + contador / numero4);
     }
 
     System.out.println("\n" + "A tabuada do número " + numero5 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 50; dezena = dezena + 5) {
-      System.out.println(dezena + " / " + numero5 + " = " + dezena / numero5);
+    for (int contador = 0; contador <= 50; contador = contador + 5) {
+      System.out.println(contador + " / " + numero5 + " = " + contador / numero5);
     }
 
     System.out.println("\n" + "A tabuada do número " + numero6 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 60; dezena = dezena + 6) {
-      System.out.println(dezena + " / " + numero6 + " = " + dezena / numero6);
+    for (int contador = 0; contador <= 60; contador = contador + 6) {
+      System.out.println(contador + " / " + numero6 + " = " + contador / numero6);
     }
 
     System.out.println("\n" + "A tabuada do número " + numero7 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 70; dezena = dezena + 7) {
-      System.out.println(dezena + " / " + numero7 + " = " + dezena / numero7);
+    for (int contador = 0; contador <= 70; contador = contador + 7) {
+      System.out.println(contador + " / " + numero7 + " = " + contador / numero7);
     }
 
     System.out.println("\n" + "A tabuada do número " + numero8 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 80; dezena = dezena + 8) {
-      System.out.println(dezena + " / " + numero8 + " = " + dezena / numero8);
+    for (int contador = 0; contador <= 80; contador = contador + 8) {
+      System.out.println(contador + " / " + numero8 + " = " + contador / numero8);
     }
 
     System.out.println("\n" + "A tabuada do número " + numero9 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 90; dezena = dezena + 9) {
-      System.out.println(dezena + " / " + numero9 + " = " + dezena / numero9);
+    for (int contador = 0; contador <= 90; contador = contador + 9) {
+      System.out.println(contador + " / " + numero9 + " = " + contador / numero9);
     }
 
     System.out.println("\n" + "A tabuada do número " + numero10 + " é:" + "\n");
 
-    for (int dezena = 0; dezena <= 100; dezena = dezena + 10) {
-      System.out.println(dezena + " / " + numero10 + " = " + dezena / numero10);
+    for (int contador = 0; contador <= 100; contador = contador + 10) {
+      System.out.println(contador + " / " + numero10 + " = " + contador / numero10);
     }
   }
 }
