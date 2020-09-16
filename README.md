@@ -61,3 +61,9 @@ Desenvolver um algoritmo que imprima a tabuada de multiplicação completa dos n
 Desenvolver um algoritmo que imprima a tabuada de divisão completa dos números de 1 a 10.
 
 **Solução:** [TabuadaDeDivisaoCompleta](https://github.com/JesseLopesTI/LogicChallenges2/blob/master/Java/TabuadaDeDivisaoCompleta.java)
+
+**#10 Tabuada completa**
+
+Desenvolver um algoritmo que imprima a tabuada completa dos números entre 0 e 10.
+
+**Solução:** [TabuadaCompleta](https://github.com/JesseLopesTI/LogicChallenges2/blob/master/Java/TabuadaCompleta.java)
