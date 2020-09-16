@@ -21,9 +21,7 @@ public class TabuadaDeDivisao {
 
         while (numero > 10) {
           System.out.println("\n" + "Observação:");
-
           System.out.println("\n" + "Só é permitido um número entre 1 e 10. Tente novamente!");
-
           System.out.print("\n" + "Digite um número entre 1 e 10: ");
           numero = scanner.nextInt();
 
