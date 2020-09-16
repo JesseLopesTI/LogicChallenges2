@@ -1,5 +1,5 @@
 /**
- * Classe que imprime a tabuada de divisão completa dos números de 1 e 10.
+ * Classe que imprime a tabuada de divisão completa dos números entre 1 e 10.
  *
  * @author Jessé Lopes
  *

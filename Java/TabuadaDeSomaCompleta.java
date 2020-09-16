@@ -1,5 +1,5 @@
 /**
- * Classe que imprime a tabuada de soma completa dos números de 0 e 10.
+ * Classe que imprime a tabuada de soma completa dos números entre 0 e 10.
  *
  * @author Jessé Lopes
  *
