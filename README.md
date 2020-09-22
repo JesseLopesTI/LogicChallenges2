@@ -73,3 +73,9 @@ Desenvolver um algoritmo que imprima a tabuada completa dos números entre 0 e 1
 Desenvolver um algoritmo que realize cálculos básicos de uma calculadora.
 
 **Solução:** [CalculadoraBasica](https://github.com/JesseLopesTI/LogicChallenges2/blob/master/Java/CalculadoraBasica.java)
+
+**#12 Contribuição mensal do INSS**
+
+Desenvolver um algoritmo que informe a alíquota de contribuição mensal para o INSS, com base na categoria do contribuinte.
+
+**Solução:** [ContribuicaoMensalDoInss](https://github.com/JesseLopesTI/LogicChallenges2/blob/master/Java/ContribuicaoMensalDoInss.java)
